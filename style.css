@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0%
+
+}
+.yellow-color{
+    color: brown;
+}
+.section{
+    display: flex;
+}
+.half-width{
+    width: 30%;
+    padding: 5px;
+}
+.half-width-image{
+    width: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:chocolate;
+    padding: 10px 40px;
+}
+.top-banner{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    
+}bo
+
